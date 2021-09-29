@@ -1,0 +1,32 @@
+set sandbox strict
+set selection-clipboard clipboard
+
+set adjust-open "width"
+set advance-pages-per-row true
+set highlight-active-color "#458588"
+set highlight-transparency 0.8
+set page-padding 0
+set pages-per-row 1
+set recolor true
+set recolor-darkcolor "#ebdbb2"
+set recolor-lightcolor "#282828"
+set scroll-step 40
+
+set n-completion-items 20
+set completion-bg "#282828"
+set completion-fg "#ebdbb2"
+set completion-group-fg "#ebdbb2"
+set completion-group-bg "#282828"
+set completion-highlight-bg "#458588"
+set completion-highlight-fg "#ebdbb2"
+set default-fg "#ebdbb2"
+set default-bg "#282828"
+set font "Hack normal 10"
+set inputbar-bg "#458588"
+set inputbar-fg "#ebdbb2"
+set notification-error-bg "#cc241d"
+set notification-error-fg "#ebdbb2"
+set notification-warning-bg "#d79921"
+set notification-warning-fg "#ebdbb2"
+set statusbar-bg "#458588"
+set statusbar-fg "#ebdbb2"
